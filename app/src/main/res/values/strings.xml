@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">minimal.idle</string>
+    <string name="app_name_short" translatable="false">minimal</string>
+    <string name="score">score</string>
+    <string name="delta">delta</string>
+    <string name="increment">increment</string>
+    <string name="upgrade">upgrade</string>
+    <string name="cost">cost</string>
+    <string name="purchase_the_upgrade">purchase the upgrade</string>
+    <string name="all_purchased">all purchased</string>
+    <string name="increment_the_score">increment the score</string>
+</resources>

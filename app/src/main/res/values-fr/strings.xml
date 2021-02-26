@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="score">score</string>
+    <string name="delta">delta</string>
+    <string name="increment">augmentation</string>
+    <string name="purchase_the_upgrade">acheter la promotion</string>
+    <string name="upgrade">promotion</string>
+    <string name="cost">coût</string>
+    <string name="all_purchased">tout acheté</string>
+    <string name="increment_the_score">augmenter le score</string>
+</resources>
