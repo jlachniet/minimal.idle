@@ -24,7 +24,7 @@ import java.util.Timer;
  * <h2>A simple and minimalistic incremental game.</h2>
  *
  * @author Julian Lachniet
- * @version 1.6
+ * @version 1.7
  */
 public class MinimalIdle extends AppCompatActivity {
     private Locale locale;
@@ -247,6 +247,6 @@ public class MinimalIdle extends AppCompatActivity {
             return String.valueOf((int) number);
         }
 
-        return new DecimalFormat("0.##E0").format(number).toLowerCase();
+        return new DecimalFormat("0.00E0").format(number).toLowerCase();
     }
 }
