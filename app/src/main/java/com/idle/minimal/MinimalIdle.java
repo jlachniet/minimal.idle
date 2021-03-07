@@ -24,7 +24,7 @@ import java.util.Timer;
  * <h2>A simple and minimalistic incremental game.</h2>
  *
  * @author Julian Lachniet
- * @version 1.7
+ * @version 1.8
  */
 public class MinimalIdle extends AppCompatActivity {
     private Locale locale;
